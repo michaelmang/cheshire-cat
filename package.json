@@ -1,14 +1,20 @@
 {
     "name": "cheshire-cat",
+    "publisher": "MichaelMangialardi",
     "displayName": "cheshire-cat",
     "description": "A VSCode theme that will have you in wonderland.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.53.0"
     },
+    "icon": "resources/images/DisneyCheshireCat.jpg",
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/michaelmang/cheshire-cat.git"
+    },
     "contributes": {
         "themes": [
             {
