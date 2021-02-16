@@ -3,7 +3,7 @@
     "publisher": "MichaelMangialardi",
     "displayName": "cheshire-cat",
     "description": "A VSCode theme that will have you in wonderland.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.53.0"
     },
