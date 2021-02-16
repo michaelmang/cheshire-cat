@@ -1,0 +1,21 @@
+{
+    "name": "cheshire-cat",
+    "displayName": "cheshire-cat",
+    "description": "A VSCode theme that will have you in wonderland.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cheshire Cat",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cheshire Cat-color-theme.json"
+            }
+        ]
+    }
+}
